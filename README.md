@@ -61,5 +61,5 @@
 ### 📫 Connect With Me
 
 - 🌐 **Portfolio:** [vivekpithvaportfolio.vercel.app](https://vivekpithvaportfolio.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/vivek-pithva-468087342](https://www.linkedin.com/in/vivek-pithva-468087342)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/vivek1127/](https://www.linkedin.com/in/vivek1127/)
 - 📧 **Email:** [pithvavivek1127@gmail.com](mailto:pithvavivek1127@gmail.com)
