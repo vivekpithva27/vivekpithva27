@@ -8,7 +8,7 @@
   <a href="https://vivekpithvaportfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00F2FE?style=for-the-badge&logoColor=black" alt="Portfolio Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/vivek-pithva-468087342" target="_blank">
+  <a href="https://www.linkedin.com/in/vivek1127/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
