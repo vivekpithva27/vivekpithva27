@@ -49,7 +49,7 @@
 
 ### 📌 Featured Project
 
-#### ⌚ [WatchHub — E-Commerce Platform]((https://github.com/vivekpithva27/watch-store-website.git))
+#### ⌚ [WatchHub — E-Commerce Platform](https://github.com/vivekpithva27/watch-store-website.git)
 > Diploma Final Year Major Project
 
 - Full-featured e-commerce platform for browsing and managing premium watch collections.
