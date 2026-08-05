@@ -4,7 +4,7 @@
   <p><strong>Frontend & Web Application Developer</strong></p>
 
   <p>
-    I build fast, fully responsive, and high-converting Landing Pages, Web Applications, and Websites.
+    I build fast, fully responsive, and high-converting Landing Pages, Web Applications, and Websites using modern web technologies.
   </p>
 
   <p align="center">
@@ -25,70 +25,48 @@
 
 ### 🚀 About Me
 
-- 🎨 **Focus Area:** Crafting clean UI/UX design systems in **Figma** and converting them into responsive code using **React** & **Tailwind CSS**.
-- 💻 **Core Tech:** React.js, PHP, JavaScript (ES6+), Bootstrap, HTML5/CSS3, MySQL.
-- 🎓 **Education:** Pursuing B.Tech CSE at Marwadi University (Diploma Background).
-- 🛠️ **Featured Work:** Built **WatchHub**, a full-fledged E-commerce web application using PHP & MySQL.
-- ⚡ **Goal:** Building open-source UI kits and shipping production-ready web applications.
+- 💻 **Tech Stack:** React.js | PHP | JavaScript (ES6+) | Bootstrap | HTML5 & CSS3
+- 🛠️ **Tools & Database:** Git & GitHub | VS Code | MySQL | Figma
+- 🎓 **Education:** Pursuing B.Tech CSE at Marwadi University (Diploma Background)
+- 🎯 **Focus:** Custom Landing Pages, E-Commerce Systems, Responsive Web Apps
+- ⚡ **Goal:** Building open-source UI kits and shipping production-ready web apps
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h4>Frontend Development</h4>
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /><br/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /><br/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-    <td valign="top" width="33%">
-      <h4>Backend & Database</h4>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    </td>
-    <td valign="top" width="33%">
-      <h4>Tools & Design</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /><br/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-    </td>
-  </tr>
-</table>
+**Frontend Development:**
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Database:**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Design:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
 ### 📌 Featured Project
 
 #### ⌚ [WatchHub — E-Commerce Platform](https://github.com/vivekpithva27/watch-store-website.git)
-> **Diploma Final Year Major Project**
+> Diploma Final Year Major Project
 
 - Full-featured e-commerce platform for browsing and managing premium watch collections.
-- **Key Features:** Dynamic catalog filtering, relational database schema, interactive cart flow, and 100% responsive layout.
-- **Tech Stack:** `PHP` `MySQL` `JavaScript (ES6+)` `Bootstrap` `CSS3`
+- **Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript, Bootstrap.
+- Built with dynamic catalog filtering, relational database structure, and responsive UI.
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekpithva27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpithva27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
----
-
-<div align="center">
 
 ### 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vivekpithvaportfolio.vercel.app-00F2FE?style=flat-square&logo=vercel)](https://vivekpithvaportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vivek1127-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vivek1127/)
-[![Email](https://img.shields.io/badge/Email-pithvavivek1127@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:pithvavivek1127@gmail.com)
-
-</div>
+- 🌐 **Portfolio:** [vivekpithvaportfolio.vercel.app](https://vivekpithvaportfolio.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/vivek1127](https://www.linkedin.com/in/vivek1127/)
+- 📧 **Email:** [pithvavivek1127@gmail.com](mailto:pithvavivek1127@gmail.com)
