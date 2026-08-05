@@ -26,7 +26,7 @@
 ### 🚀 About Me
 
 - 💻 **Tech Stack:** React.js | PHP | JavaScript (ES6+) | Bootstrap | HTML5 & CSS3
-- 🛠️ **Tools & Database:** Git & GitHub | VS Code | MySQL | Figma
+- 🛠️ **Tools & Database:** Git & GitHub | VS Code | MySQL
 - 🎓 **Education:** Pursuing B.Tech CSE at Marwadi University (Diploma Background)
 - 🎯 **Focus:** Custom Landing Pages, E-Commerce Systems, Responsive Web Apps
 - ⚡ **Goal:** Building open-source UI kits and shipping production-ready web apps
@@ -46,11 +46,10 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Tools & Design:**
+**Tools & Environment:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
