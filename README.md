@@ -1,7 +1,16 @@
 # Hi there, I'm Vivek Pithva 👋 
 
 <p align="left">
-  <b>UI/UX Designer & Frontend Developer</b> | B.Tech CSE Student @ Marwadi University
+  # Hi there, I'm Vivek Pithva 👋
+### Frontend & Web Application Developer
+
+I build fast, fully responsive, and high-converting Landing Pages, Web Applications, and Websites using modern web technologies.
+
+- 💻 Tech Stack: **React.js | PHP | JavaScript (ES6+) | Bootstrap | HTML5 & CSS3**
+- 🛠️ Tools: **Git & GitHub | VS Code | MySQL**
+- 🎯 Focus: Custom Landing Pages, E-Commerce Systems, Responsive Web Apps
+- 📬 Contact: pithvavivek1127@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/vivek1127](https://www.linkedin.com/in/vivek1127/)
 </p>
 
 <p align="left">
